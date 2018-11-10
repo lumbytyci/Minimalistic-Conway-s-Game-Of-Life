@@ -3,5 +3,5 @@ A very simple and inefficient implementation of the Game of Life whose rules wer
 
 Please refer to this [wikipedia page](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life) for more information about the simulation.
 
-![](demonstration.gif)
+<img align="center" src="demonstration.gif">
 
